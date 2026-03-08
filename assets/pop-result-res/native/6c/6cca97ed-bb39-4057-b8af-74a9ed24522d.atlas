@@ -1,0 +1,76 @@
+
+gxgg.png
+size: 880,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g
+  rotate: false
+  xy: 2, 89
+  size: 750, 437
+  orig: 752, 533
+  offset: 1, 50
+  index: -1
+images/gxgg
+  rotate: true
+  xy: 754, 26
+  size: 500, 124
+  orig: 502, 126
+  offset: 1, 1
+  index: -1
+images/j1
+  rotate: false
+  xy: 126, 8
+  size: 116, 79
+  orig: 122, 85
+  offset: 3, 3
+  index: -1
+images/j2
+  rotate: false
+  xy: 244, 9
+  size: 115, 78
+  orig: 121, 84
+  offset: 3, 3
+  index: -1
+images/j3
+  rotate: false
+  xy: 2, 2
+  size: 122, 85
+  orig: 128, 92
+  offset: 3, 3
+  index: -1
+images/j4
+  rotate: false
+  xy: 361, 8
+  size: 112, 79
+  orig: 117, 85
+  offset: 3, 3
+  index: -1
+images/x1
+  rotate: true
+  xy: 584, 31
+  size: 56, 51
+  orig: 58, 53
+  offset: 1, 1
+  index: -1
+images/x2
+  rotate: true
+  xy: 530, 30
+  size: 57, 52
+  orig: 59, 54
+  offset: 1, 1
+  index: -1
+images/x3
+  rotate: true
+  xy: 637, 31
+  size: 56, 51
+  orig: 58, 53
+  offset: 1, 1
+  index: -1
+images/x4
+  rotate: true
+  xy: 475, 28
+  size: 59, 53
+  orig: 61, 55
+  offset: 1, 1
+  index: -1

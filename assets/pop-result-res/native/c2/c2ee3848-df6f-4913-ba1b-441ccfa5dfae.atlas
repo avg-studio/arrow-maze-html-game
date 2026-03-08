@@ -1,0 +1,41 @@
+
+ms_413_a.png
+size: 920,743
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g
+  rotate: false
+  xy: 2, 2
+  size: 750, 739
+  orig: 750, 785
+  offset: 0, 23
+  index: -1
+images/quan
+  rotate: false
+  xy: 754, 2
+  size: 127, 44
+  orig: 127, 44
+  offset: 0, 0
+  index: -1
+images/sb
+  rotate: true
+  xy: 754, 493
+  size: 248, 144
+  orig: 253, 144
+  offset: 2, 0
+  index: -1
+images/ycb
+  rotate: false
+  xy: 754, 48
+  size: 164, 220
+  orig: 164, 220
+  offset: 0, 0
+  index: -1
+images/zcb
+  rotate: false
+  xy: 754, 270
+  size: 164, 221
+  orig: 164, 221
+  offset: 0, 0
+  index: -1
